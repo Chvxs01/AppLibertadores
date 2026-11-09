@@ -7,7 +7,7 @@ using Map = Microsoft.Maui.Controls.Maps.Map;
 
 namespace AppLibertadoresHAS.ViewModels
 {
-    internal class LocalizacaoViewModel
+    internal class LocalizacaoViewModel: BaseViewModel
     {
         private Map meuMapa;
 
